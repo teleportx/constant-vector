@@ -1,2 +1,2 @@
-# constant-dynamic-array
-Dynamic array with "true" O(1)
+# constant-vector
+Dynamic array with "truthful" fast push back.
